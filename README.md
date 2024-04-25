@@ -21,5 +21,6 @@ Lalu juga apabila game over, maka akan menampilkan pop up game over, dan apabila
 
 Berikut adalah recordnya:
 
+https://github.com/hafidzf25/LP7DPBO2024C/assets/117885795/48983215-5367-4824-8eb3-cfecb5bdde04
 
 Terima kasih sebelumnya, maaf apabila ada kesalahan kata sebelumnya.
